@@ -38,7 +38,8 @@ Para isso é muito importante conhecermos os principais mecanismos de desenvolvi
 
 ## Links Importantes
 
-- Ainda nenhum
+- https://www.onlinegdb.com/online_c_compiler
+- https://replit.com/
 
 ## Bibliografia básica
 
