@@ -14,6 +14,12 @@ Classroom da turma: EM BREVE
 
 ## Preparação do ambiente de desenvolvimento
 
+Essa disciplina pode ser 100% desenvolvida através de ferramentas online, como por exemplo o repl.it. Recomenda-se fortemente que utilizem esta tecnologia.
+
+Entretanto, se você preferir instalar em sua máquina o ambiente de desenvolvimento, siga o passo a passo criado na primeira aula [NESTE LINK](https://docs.google.com/document/d/1YoNdpckKwzpodFB8-5oZPBCm-jcUQvjAkWdQEFbeoQg/edit?usp=sharing)
+
+Lembre-se que o acesso a este documento deve ser feito com o e-mail institucional.
+
 ## Critérios de avaliação
 
 A média final do professor (AV1) é dada unicamente pela média das atividades propostas durante o semestre pelo professor.
