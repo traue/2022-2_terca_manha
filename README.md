@@ -1,6 +1,6 @@
 # Estrutura de Dados
 
-Turma 12 - Terças de manhã
+Turma 12 - Terças e sextas de manhã
 
 **E-mail do professor:** thiago.traue@uni9.pro.br
 
