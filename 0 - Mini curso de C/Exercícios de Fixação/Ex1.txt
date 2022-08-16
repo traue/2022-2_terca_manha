@@ -1,0 +1,11 @@
+Exercício de fixação 1
+
+1. Crie, em C, uma pequena calculadora de IMC (Índice de Massa Corpórea)
+
+Lembre-se que devem ser lidos dois valores:
+ - Peso
+ - Altura
+
+O IMC é: peso / (altura * altura)
+
+Neste momento não é preciso mostrar a classificação ainda.
