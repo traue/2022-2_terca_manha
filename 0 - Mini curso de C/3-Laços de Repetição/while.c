@@ -31,3 +31,4 @@ int main()
 
 
 //paramos aqui.. veremos o do..while aula que vem
+//demonstrar esse algoritmo
