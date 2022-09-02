@@ -1,0 +1,19 @@
+1. Faça um programa em C que armazene 15 números inteiros em um vetor e depois permita que 
+o usuário digite um número inteiro para ser buscado no vetor. Se for encontrado o
+programa deve imprimir a posição desse número no vetor, caso contrário, deve imprimir 
+a mensagem: "Nao encontrado!"
+
+2. Faça um programa em C que leia 15 números inteiros e imprima a lista de valores informando 
+se cada posição armazena um valor PAR ou ÍMPAR
+
+3. Faça um programa que armazene as notas das provas 1 e 2 de 15 alunos.
+Calcule e armazene a média arredondada. Armazene também a situação do aluno:
+1- Aprovado ou 2-Reprovado. Ao final o programa deve imprimir uma listagem contendo as notas,
+a média e a situação de cada aluno em formato tabulado. Utilize quantos vetores forem 
+necessários para armazenar os dados.
+
+4. Faça um programa que leia um vetor vet de 10 elementos e obtenha um vetor w cujos 
+componentes são os fatoriais dos respectivos componentes de vet.
+
+5. Construa um programa que leia dados para um vetorde 100 elementos inteiros. Imprimir o
+maior e o menor, sem ordenar, o percentual de números pares e a média dos elementos do vetor.
