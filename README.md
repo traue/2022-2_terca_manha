@@ -4,13 +4,15 @@ Turma 12 - Terças e sextas de manhã
 
 **E-mail do professor:** thiago.traue@uni9.pro.br
 
-Classroom da turma: EM BREVE
+Classroom da turma: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMjIxNDI2?cjc=yvtkqej)
 
 ---
 
 ## Atividades
 
-- Essa disciplina ainda não demanda atividades
+- Atividade 1: De 09.09 até 30.09, 11h
+
+**Lembre-se** que todas as atividades devem ser realizadas via Google Classroom, utilizando seu e-mail intitucional. O link do classroom está no parte de cima deste texto.
 
 ## Preparação do ambiente de desenvolvimento
 
