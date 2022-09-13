@@ -1,0 +1,15 @@
+1. Faça um programa que leia os elementos inteiros de uma matriz com tamanho 3 X 3 e imprima os elementos multiplicando-os por 2.
+
+2. Faça um programa que permita entrar com valores inteiros em uma matriz A de tamanho 3 X 4. Gerar e imprimir uma matriz B que é o triplo da matriz A.
+
+3. Entrar com valores para uma matriz C (2x3). Gerar e imprimir a C tramsposta. A matriz transposta é gerada trocando linha por coluna. Veja o exemplo a seguir:
+
+C = (1 2 3)
+    (4 5 6)
+
+Ct = (1 4)
+     (2 5)
+     (3 6)
+
+
+4. Supondo que uma matriz apresente em cada linha o total de produtos vendidos ao mês por uma loja que trabalha com cinco tipos diferentes de produtos, construir um programa que leia esse total e, ao final, apresente o total de produtos vendidos em cada mês e o total de vendas por ano por produto.
