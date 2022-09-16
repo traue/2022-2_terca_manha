@@ -4,12 +4,12 @@
 
 3. Entrar com valores para uma matriz C (2x3). Gerar e imprimir a C tramsposta. A matriz transposta é gerada trocando linha por coluna. Veja o exemplo a seguir:
 
-C = (1 2 3)
-    (4 5 6)
+    C = (1 2 3)
+        (4 5 6)
 
-Ct = (1 4)
-     (2 5)
-     (3 6)
+    Ct = (1 4)
+         (2 5)
+         (3 6)
 
 
 4. Supondo que uma matriz apresente em cada linha o total de produtos vendidos ao mês por uma loja que trabalha com cinco tipos diferentes de produtos, construir um programa que leia esse total e, ao final, apresente o total de produtos vendidos em cada mês e o total de vendas por ano por produto.
