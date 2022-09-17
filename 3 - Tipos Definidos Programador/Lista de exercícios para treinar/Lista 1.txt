@@ -1,0 +1,33 @@
+1. Implemente um programa em C que leia o nome, a idade e o endereço de uma pessoa 
+e armazene esses dados em uma estrutura. Em seguida, imprima na tela os dados da estrutura lida.
+
+2. Crie uma estrutura para representar as coordenadas de um ponto no plano
+(posições X e Y). Em seguida, declare e leia do teclado um ponto, calcule exiba 
+a distância dele até a origem das coordenadas, isto é, posição (0, 0).
+Para realizar o cálculo, utilize a fórmula de distância euclidiana:
+
+    d = RAIZ((QUADRADO(XB - XA) + QUADRADO(YB + YA)))
+    (vide imagem na pasta)
+
+    Onde:
+        - d = Diatância entre os pontos A e B
+        - X = coordenada X em um ponto
+        - Y = coordenada Y em um ponto
+
+3. Crie uma estrutura para representar as coordenadas de um ponto no plano
+(posições X e Y). Em seguida, declare e leia do teclado dois pontos e exiba a 
+distância entre eles, considere a mesma fórmula do exercício anterior.
+
+4. Crie uma estrutura chamada retângulo. Essa estrutura deverá conter o ponto 
+superior esquerdo e o ponto inferior direito do retângulo. Cada ponto é definido
+por uma estrutura Ponto, a qual contém as posições X e Y. Faça um programa que 
+declare e leia uma estrutura retângulo e exiba a área, o comprimento da 
+diagonal e o perímetro desse retângulo.
+
+
+5. Crie uma estrutura representando um aluno de uma disciplina. Essa estrutura 
+deve conter o número de matrícula do aluno, seu nome e notas de três provas.
+Defina também um tipo para esta estrutura. 
+Agora, escreva um programa que leia os dados de cinco alunos e os armazena 
+nessa estrutura. Em seguida, exiba o nome e as notas do aluno que possui a 
+maior média geral dentre os cinco.
