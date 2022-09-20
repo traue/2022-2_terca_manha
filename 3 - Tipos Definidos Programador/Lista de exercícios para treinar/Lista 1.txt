@@ -6,7 +6,7 @@ e armazene esses dados em uma estrutura. Em seguida, imprima na tela os dados da
 a distância dele até a origem das coordenadas, isto é, posição (0, 0).
 Para realizar o cálculo, utilize a fórmula de distância euclidiana:
 
-    d = RAIZ((QUADRADO(XB - XA) + QUADRADO(YB + YA)))
+    d = RAIZ((QUADRADO(XB - XA) + QUADRADO(YB - YA)))
     (vide imagem na pasta)
 
     Onde:
@@ -31,3 +31,7 @@ Defina também um tipo para esta estrutura.
 Agora, escreva um programa que leia os dados de cinco alunos e os armazena 
 nessa estrutura. Em seguida, exiba o nome e as notas do aluno que possui a 
 maior média geral dentre os cinco.
+
+[ATIVIDDE] 6. Usando a estrutura retângulo do exercício 4, faça um programa que declare e 
+leia uma estrutura retângulo e um ponto, e informe se esse ponto está ou não
+dentro do retângulo.
