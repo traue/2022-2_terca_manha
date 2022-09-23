@@ -12,10 +12,11 @@ int main() {
     //como comparamos se a pessoa digitou o mesmo nome "guardado"?
     if (strcmp(nome, nomeNovo) == 0) {
         printf("Os nomes são iguais!");
+        printf("\n Resultado da SRTCMP: %d", strcmp(nome, nomeNovo));
     } else {
         printf("Os nomes são diferentes!");
+        printf("\n Resultado da SRTCMP: %d", strcmp(nome, nomeNovo));
     }
-
 
     return 0;
 }
