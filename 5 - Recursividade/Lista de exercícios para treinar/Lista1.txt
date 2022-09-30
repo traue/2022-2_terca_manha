@@ -1,0 +1,17 @@
+1. A sequência de Fibonacci é a sequência de inteiros: 
+        0,1,1,2,3,5,8,13,21,34,.... 
+   Implemente uma função recursiva que calcule e imprima 
+   todos os elementos da série Fibonacci de 0 até n. 
+   Em que, n deve ser informado pelo usuário do programa.
+
+2. Escreva uma função recursiva em C para calcular o máximo
+   divisor comum de dois números, mdc(x, y).
+
+3. Escreva um programa recursivo em C para converter um número da sua 
+   forma decimal para a forma binária. 
+   Dica: dividir o número sucessivamente por 2, sendo que 
+   o resto da i-ésima divisão vai ser o dígito i do 
+   número binário (da direita para a esquerda).
+
+4. Escreva uma função recursiva em linguagem C para 
+   calcular o valor de x^n (x elevado a n)
