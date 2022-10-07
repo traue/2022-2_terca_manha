@@ -1,0 +1,11 @@
+1. Crie um programa que contenha um vetor de inteiros com tamanho 5.
+   Utilizando apenas ponteiros, leia valores e armazene neste vetor e após isso, imprima o dobro de cada valor lido.
+
+2. Elabore um programa que leia um valor do tipo inteiro e, por meio de função, atualize todas as posições de um vetor com o número inteiro lido, depois imprima os valores. Utilize ponteiros para as operações.
+
+3. Faça um programa que receba dois valores inteiros, após receber esses dois valores, uma função deve calcular e retornar para o programa o resultado da soma e da subtração dos valores. Obs.: Apenas uma função deve realizar esta operação, desta forma, faça uso de ponteiros.
+
+4. Construa uma função que,recebendo como parâmetros quatro números inteiros, devolva ao módulo que o chamou os dois maiores números dentre os quatro recebidos. Faça um programa que leia tantos conjuntos de quatro valores quantos o usuário deseje e que acione a função para cada conjunto de valores, apresentando a cada vez os dois maiores números. Se preferir, utilize vetor para armazenar o conjunto de valores.
+
+DESAFIO DA DISCIPLINA:
+5. Considere um vetor de 10 elementos, contendo valores inteiros. Faça um programa que leia os valores para preencher esse vetor, após a leitura o programa deve invocar uma função que calcule e devolva as frequências absoluta e relativa desses valores no conjunto. (Observação: a frequência absoluta de um valor é o número de vezes que esse valor aparece no conjunto de dados; a frequência relativa é a frequência absoluta dividida pelo número total de dados.). Utilize outros dois vetores para armazenar as frequências relativas e absolutas e ao final do programa, imprima de forma tabulada os números e suas frequências absoluta e relativa
