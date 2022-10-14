@@ -8,3 +8,16 @@
 4. Construa uma função que,recebendo como parâmetros quatro números inteiros, devolva ao módulo que o chamou os dois maiores números dentre os quatro recebidos. Faça um programa que leia tantos conjuntos de quatro valores quantos o usuário deseje e que acione a função para cada conjunto de valores, apresentando a cada vez os dois maiores números. Se preferir, utilize vetor para armazenar o conjunto de valores.
 
 5. Considere um vetor de 10 elementos, contendo valores inteiros. Faça um programa que leia os valores para preencher esse vetor, após a leitura o programa deve invocar uma função que calcule e devolva as frequências absoluta e relativa desses valores no conjunto. (Observação: a frequência absoluta de um valor é o número de vezes que esse valor aparece no conjunto de dados; a frequência relativa é a frequência absoluta dividida pelo número total de dados.). Utilize outros dois vetores para armazenar as frequências relativas e absolutas e ao final do programa, imprima de forma tabulada os números e suas frequências absoluta e relativa
+
+
+Desafios novos:
+
+6. O Google está desenvolvendo um novo sistema operacional para máquinas de venda de bolinhas de borracha de R$1,00, mas precisa realizar testes no Gerenciador de Memória desse sistema. Você foi contratado para fazer um programa para verificar se o gerenciador de memória está funcionando corretamente. Seu programa deverá ler 3 números inteiros, 3 números decimais, 3 letras, armazená-las em variáveis, e depois, através de ponteiros, trocar os seus valores, substituindo todos os números inteiros pelo número 2014, os decimais por 9.99, e as letras por ’Y’. Depois da substituição, o programa deverá exibir o valor das variáveis já devidamente atualizadas.
+
+7. O laboratório de agropecuária da Uninove tem um termômetro de extrema precisão, utilizado para aferir as temperaturas de uma estufa onde cultivam uma variedade de jaca transgênica, com apenas um caroço do tamanho de uma semente de laranja. O problema é que este termômetro dá os resultados na escala Kelvin (K) e os pesquisadores que atuam perto da estufa são americanos, acostumados com a escala Fahrenheit (F). Você deve criar um programa para pegar uma lista de 24 temperaturas em Kelvin e convertê-las para Fahrenheit. O problema maior é que esses pesquisadores querem que você faça essa conversão e imprima os resultados utilizando ponteiros. Para a conversão, observe as fórmulas a seguir:
+
+   F = 1.8 * (K - 273) + 32
+
+   F = Temp. em Fahrenheit
+   K = Temp em Kelvin
+
