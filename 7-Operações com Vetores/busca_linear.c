@@ -29,7 +29,7 @@ int main() {
 
     int indiceValorBuscado = buscaLinear(v, n, valorBuscado);
 
-    printf("\nÍndive do valor buscado: %d", indiceValorBuscado);
+    printf("\nIndive do valor buscado: %d", indiceValorBuscado);
 
     return 0;
 }
