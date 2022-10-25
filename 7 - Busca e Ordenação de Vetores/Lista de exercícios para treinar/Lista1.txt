@@ -1,0 +1,23 @@
+1. Crie um programa em C que seja capaz de ler um vetor de tamanho 
+   10, ordená-lo e em seguida solicitar ao usuário um valor a ser 
+   buscado. O programa deve retornar o índice novo (após ordenação) 
+   do valor ou "-1" se não encontrar.
+   Pense em uma otimização para a busca, ou seja, se o valor buscado
+   é menor do que o índice acessado, então não encontrou.
+   Utilize a busca linear.
+
+   Ex: Entrada: [3, 5, 7, 1, 8, 5, 3, 9]
+       Saída: [1, 3, 3, 5, 5, 7, 8, 9]
+       Valor buscado: 7
+       POsição: 5
+
+       Valor buscado: 6 (passou pelos indice 5 pode parar)
+       Posição: -1
+
+2. Crie um programa em C que seja capaz de ler um vetor de tamanho qualquer,
+   ordená-lo e, em seguida, solicitar ao usuário um novo valor a ser inserido.
+   Este processo de inserção deverá ocorrer no local correto com
+   redimencionamento do vetor (sem reordená-lo).
+   O programa deve imprimir o vetor orignial, ordenado e o novo vetor com o 
+   valor inserido.
+   Utilize funções e ponteiros se necessário.
