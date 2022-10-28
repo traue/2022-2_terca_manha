@@ -1,0 +1,7 @@
+1. Crie um programa em C que seja capaz de ler um valor
+   N e criar um vetor com este tamanho. Em seguida,
+   ler os dados do vetor, ordená-lo e solicitar ao usuário
+   um valor a ser buscado. Verificar em qual posição o valor está.
+   MAS! Você deverá persistir o vetor original e mostrar
+   a posição do valor buscado no vetor original e no vetor ordenado.
+   Use as buscas binária e linear nesse algoritmo.

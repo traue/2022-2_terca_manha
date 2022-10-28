@@ -2,11 +2,20 @@
 #include <stdio.h>
 
 int buscaLinear(int v[], int tamanho, int vBuscado) {
-    for (int i = 0; i < tamanho; i++) {
+    for (int i = 0; i < tamanho && v[i] <= vBuscado; i++) {
         if (v[i] == vBuscado)
             return i; //a posição que encntrou o valor
     }
     return -1; //-1 não encontrou
+}
+
+int buscaLinear2(int v[], int tamanho, int vBuscado) {
+    int indice = 0;
+    while (indice < tamanho && v[indice] < vBuscado)
+        indice++;
+    if (indice >= tamanho || v[indice] != vBuscado)
+        return -1;
+    return indice;
 }
 
 int main() {
@@ -28,8 +37,10 @@ int main() {
     scanf("%d", &valorBuscado);
 
     int indiceValorBuscado = buscaLinear(v, n, valorBuscado);
+    int indiceValorBuscado2 = buscaLinear2(v, n, valorBuscado);
 
     printf("\nIndive do valor buscado: %d", indiceValorBuscado);
+    printf("\nIndive do valor buscado 2: %d", indiceValorBuscado);
 
     return 0;
 }
