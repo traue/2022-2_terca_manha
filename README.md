@@ -10,10 +10,11 @@ Classroom da turma: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMjIxNDI2
 
 ## Atividades
 
-- Atividade 1: De 09.09 até 30.09, 11h
-- Atividade 2: De 20.09 até 23.09, 09h
-- Atividade 3: De 11.10 até 01.11, 09h
+- Atividade 1: De 09.09 até 30.09, 11h - Encerrada
+- Atividade 2: De 20.09 até 23.09, 09h - Encerrada
+- Atividade 3: De 11.10 até 01.11, 09h - Encerrada
 - Atividade 4: De 21.10 até 04.11, 09h
+- Atividade 5: De 01.11 até 25.11, 09h
 
 **Lembre-se** que todas as atividades devem ser realizadas via Google Classroom, utilizando seu e-mail intitucional. O link do classroom está no parte de cima deste texto.
 
