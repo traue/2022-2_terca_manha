@@ -21,3 +21,6 @@
    O programa deve imprimir o vetor orignial, ordenado e o novo vetor com o 
    valor inserido.
    Utilize funções e ponteiros se necessário.
+
+
+--FINALIADA
