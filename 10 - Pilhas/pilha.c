@@ -12,13 +12,14 @@ int tamanho;
 
 void inicializaPilha();
 int estaVazia(no *PILHA);
+void mostraPilha(no *PILHA);
 void push(no *PILHA);
 no *aloca();
 int menu();
 void escolhaMenu(no *PILHA, int opc);
 
 int main() {
-
+    
     no *PILHA = (no * )malloc(sizeof(no));
 
     if (!PILHA) {
@@ -60,6 +61,30 @@ void liberaPilha(no *PILHA) {
     }
 }
 
+void mostraPilha(no *PILHA) {
+    if (estaVazia(PILHA)) {
+        printf("\nA pilha está vazia!\n\n");
+        return;
+    }
+
+    no *temp;
+    temp = PILHA->prox;
+    printf("\nPILHA:");
+    while (temp != NULL) {
+        printf("%5d", temp->valor);
+        temp = temp->prox;
+    }
+    printf("\n        ");
+
+    for (int i = 0; i < tamanho; i++)
+        printf("  ^  ");
+    printf("\nOrdem:");
+    for (int i = 0; i < tamanho; i++)
+        printf("%5d", i + 1);
+
+    printf("\n\n\n");
+}
+
 void push(no *PILHA) {
 
     //cria um novo nó na memória
@@ -81,6 +106,21 @@ void push(no *PILHA) {
     tamanho++;
 }
 
+no *pop(no *PILHA) {
+    if (PILHA->prox == NULL) {
+        printf("\n\nA Pilha já está vazia!\n\n");
+        return NULL;
+    }
+    no *ultimo = PILHA->prox, *penultimo = PILHA;
+    while (ultimo->prox != NULL) {
+        penultimo = ultimo;
+        ultimo = ultimo->prox;
+    }
+    penultimo->prox = NULL;
+    tamanho--;
+    return ultimo;
+}
+
 no *aloca() {
     no *novoNo = (no *) malloc(sizeof(no));
     if (!novoNo) {
@@ -89,6 +129,7 @@ no *aloca() {
     }
     printf("Novo elemento: ");
     scanf("%d", &novoNo->valor);
+    //novoNo->prox = NULL;
     return novoNo;
 }
 
@@ -106,25 +147,29 @@ int menu() {
 }
 
 void escolhaMenu(no *PILHA, int opc) {
+    no *ultimoRemovido;
     switch (opc) {
         case 0:
-            //liberar o espaço de memória da pilha
+            //liberar o espaço de memória da pilha e finalzia o programa
             liberaPilha(PILHA);
             break;
-
         case 1:
             liberaPilha(PILHA);
             inicializaPilha(PILHA);
+            printf("\n\nVilha esvaziada!\n\n");
             break;
-
         case 2: 
-            //próxima aula
+            mostraPilha(PILHA);
             break;
-        
         case 3:
             push(PILHA);
             break;
-
-        //paramos aqui
+        case 4:
+            ultimoRemovido = pop(PILHA);
+            if (ultimoRemovido != NULL)
+                printf("\n\nRetirado: %3d\n\n", ultimoRemovido->valor);
+            break;
+        default:
+            printf("\n\nOpção inválida!\n\n");
     }
 }
