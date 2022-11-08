@@ -14,6 +14,7 @@ void inicializaPilha();
 int estaVazia(no *PILHA);
 void mostraPilha(no *PILHA);
 void push(no *PILHA);
+no *pop(no *PILHA);
 no *aloca();
 int menu();
 void escolhaMenu(no *PILHA, int opc);
