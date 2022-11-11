@@ -17,11 +17,15 @@ Classroom da turma: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMjIxNDI2
 - Atividade 5: De 01.11 até 25.11, 09h
 - Atividade 6: De 11.11 até 06.12, 09h
 
+**Lembre-se** que todas as atividades devem ser realizadas via Google Classroom, utilizando seu e-mail intitucional. O link do classroom está no parte de cima deste texto.
+
+
 ## Avaliação Integrada
 
 Ocorrerá no dia **08.12**
 
-**Lembre-se** que todas as atividades devem ser realizadas via Google Classroom, utilizando seu e-mail intitucional. O link do classroom está no parte de cima deste texto.
+Não falte!!
+
 
 ## Preparação do ambiente de desenvolvimento
 
