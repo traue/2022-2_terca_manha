@@ -19,6 +19,10 @@ Classroom da turma: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMjIxNDI2
 
 **Lembre-se** que todas as atividades devem ser realizadas via Google Classroom, utilizando seu e-mail intitucional. O link do classroom está no parte de cima deste texto.
 
+## Atividade de recuperação
+
+Vide Classroom!!
+
 
 ## Avaliação Integrada
 
