@@ -15,7 +15,7 @@ Classroom da turma: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMjIxNDI2
 - Atividade 3: De 11.10 até 01.11, 09h - Encerrada
 - Atividade 4: De 21.10 até 11.11, 09h - Encerrada
 - Atividade 5: De 01.11 até 25.11, 09h - Encerrada
-- Atividade 6: De 11.11 até 06.12, 09h
+- Atividade 6: De 11.11 até 06.12, 09h - Encerrada
 
 **Lembre-se** que todas as atividades devem ser realizadas via Google Classroom, utilizando seu e-mail intitucional. O link do classroom está no parte de cima deste texto.
 
