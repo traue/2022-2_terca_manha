@@ -1,34 +1,10 @@
-# Estrutura de Dados
+# Estrutura de Dados - ENCERRRADA
 
 Turma 12 - Terças e sextas de manhã
 
 **E-mail do professor:** thiago.traue@uni9.pro.br
 
 Classroom da turma: [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMjIxNDI2?cjc=yvtkqej)
-
----
-
-## Atividades
-
-- Atividade 1: De 09.09 até 30.09, 11h - Encerrada
-- Atividade 2: De 20.09 até 23.09, 09h - Encerrada
-- Atividade 3: De 11.10 até 01.11, 09h - Encerrada
-- Atividade 4: De 21.10 até 11.11, 09h - Encerrada
-- Atividade 5: De 01.11 até 25.11, 09h - Encerrada
-- Atividade 6: De 11.11 até 06.12, 09h - Encerrada
-
-**Lembre-se** que todas as atividades devem ser realizadas via Google Classroom, utilizando seu e-mail intitucional. O link do classroom está no parte de cima deste texto.
-
-## Atividade de recuperação
-
-Vide Classroom!!
-
-
-## Avaliação Integrada
-
-Ocorrerá no dia **08.12**
-
-Não falte!!
 
 
 ## Preparação do ambiente de desenvolvimento
